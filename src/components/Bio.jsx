@@ -5,7 +5,7 @@ function Bio(){
         title="Prazer, Caroline Magalhães!" 
         description="Oi, eu sou a Carol, Desenvolvedora de software em construção.
         Apaixonada por tecnologia e inovação, ligada no 220 volts, puro suco do alto astral!"
-        imgPath="https://media.tenor.com/fyimEFd5D0sAAAAM/nazare.gif"/>
+        imgPath="./src/components/img/carol13.jpeg" />
 
        /* <>
         <h2>Caroline Magalhães</h2>

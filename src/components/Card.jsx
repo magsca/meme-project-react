@@ -3,7 +3,7 @@ function Card ({title, description, imgPath}) {
     <>
     <h2>{title}</h2>
     <p>{description}</p>
-    <img src={imgPath} />
+    <img src={imgPath} width={350} />
     </>
     );
 }
