@@ -54,11 +54,6 @@ function Cards () {
         title="só pra quem falou que eu não ia conseguir"
         imgPath="https://media2.giphy.com/media/Uh1ZPq7mA7xa8/200.webp?cid=ecf05e47qa8pyc5nsh8mfrauhrn2d2l8s5qy034140tnde2b&rid=200.webp&ct=g" width=""
         />
-<Card
-        title="Não sei falar, só sentir"
-        imgPath="https://lulaverso.com/wp-content/uploads/2022/02/Lula_fazendo_coracao.gif" width=""
-        />
-
 
         </>
 
